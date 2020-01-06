@@ -6,6 +6,7 @@ Folder Organization
 
 cleaned data
 - contain processed data output by taxi_processing.ipynb to be used in model.ipynb
+
 data_scripts 
 - contain data processing, visualization， model training and selection code. 
 
